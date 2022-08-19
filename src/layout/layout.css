@@ -1,0 +1,17 @@
+.title{
+    border-bottom: 1px solid;
+    font-size: xx-large;
+    text-align: center;
+    font-style:oblique;
+    background-color: black;
+    color: #ccc;
+}
+
+.subtitle{
+    border-top: 1px solid;
+    font-size: xx-large;
+    text-align: center;
+    font-style:oblique;
+    background-color: black;
+    color: #ccc;
+}
